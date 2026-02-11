@@ -1,0 +1,10 @@
+# OCR Engine
+paddleocr==2.7.0.3
+paddlepaddle==2.6.2
+
+# Image Processing
+numpy==1.24.4
+Pillow==10.0.1
+
+# Optional (for PDF support)
+pdf2image==1.16.3
